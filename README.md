@@ -5,7 +5,7 @@
 <a href="mailto:jeongin3013@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/>
 </a>
-<img src="https://github-readme-stats.vercel.app/api?username=asd_1a2a&show_icons=true&theme=default">
+<img src="https://github-readme-stats.vercel.app/api?username=wjddls0524@naver.com&show_icons=true&theme=default">
 
 <!--
 **asd1a2a/asd1a2a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
